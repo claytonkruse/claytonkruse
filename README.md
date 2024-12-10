@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there. 👋
 Hello, I am a full time student of Computer Science at Mizzou.
 
 You may visit my website at [claytonkruse.com](claytonkruse.com) to learn more about me.
