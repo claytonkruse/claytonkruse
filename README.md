@@ -1,7 +1,7 @@
 ## Hi there. 👋
 Hello, I am a full time student of Computer Science at Mizzou.
 
-You may visit my website at [claytonkruse.com](//claytonkruse.com) to learn more about me.
+You may visit my website at [claytonkruse.com](https://claytonkruse.com/) to learn more about me.
 
 <!--
 **claytonkruse/claytonkruse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
