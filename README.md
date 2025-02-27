@@ -1,5 +1,5 @@
 ## Hi there. 👋
-Hello, I am a full time student of Computer Science at Mizzou.
+Hello, I am a Computer Science Major at Mizzou.
 
 You may visit my website at [claytonkruse.com](https://claytonkruse.com/) to learn more about me.
 
